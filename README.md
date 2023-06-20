@@ -20,7 +20,7 @@ client
 
 <img width="473" alt="image" src="https://github.com/tarrascue/vpn/assets/117171128/b56f54b0-cdb1-4b38-ada4-633054dd65d6">
 
-Можно сделать вывод что режим tap предпосительнее.
+Можно сделать вывод что режим tap предпочтительнее.
 
 ### RAS
 
